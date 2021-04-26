@@ -14,10 +14,12 @@ author: "Stephen Nutbrown"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Resources:
-    - "Data collection tools": "https://beautifuljekyll.com"
-    - "Retro plans": "https://www.markdowntutorial.com/"
-    - "Data: From JIRA": "https://www.markdowntutorial.com/"
+  Data for the retro:
+    - "Jira Guides": "https://www.markdowntutorial.com/"
+    - "Happiness Tracker": "/happiness-tracker"
+
+  Plan for the retro:
+    - "Retro plans": "/plans"
   Author's home: "https://nutbrown.io"
 
 # --- Logo --- #
